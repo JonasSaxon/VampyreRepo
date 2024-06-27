@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VampyreREST", "VampyreREST.csproj", "{A65231E4-7003-49BE-B15D-83C20B8DC1BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VampyreREST", "VampyreREST.csproj", "{A65231E4-7003-49BE-B15D-83C20B8DC1BF}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vampyrereactts", "..\vampyrereactTS\vampyrereactts.esproj", "{E94D4B25-1251-45D7-994A-C47DA8C42A8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{A65231E4-7003-49BE-B15D-83C20B8DC1BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A65231E4-7003-49BE-B15D-83C20B8DC1BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A65231E4-7003-49BE-B15D-83C20B8DC1BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E94D4B25-1251-45D7-994A-C47DA8C42A8F}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
