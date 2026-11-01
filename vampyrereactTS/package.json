@@ -43,5 +43,16 @@
   "devDependencies": {
     "eslint-config-react-app": "^7.0.1",
     "jest-editor-support": "^31.1.1"
+  },
+  "overrides": {
+    "underscore": "1.13.8",
+    "resolve-url-loader": "5.0.0",
+    "serialize-javascript": "7.1.4",
+    "@svgr/webpack": "8.1.0",
+    "svgo": "4.1.0",
+    "webpack-dev-middleware": "7.4.5"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
